@@ -70,7 +70,7 @@ const GlacierTrailsIcadventrestack = () => {
 
   const ONESIGNAL_KEY = `21883521-d956-4cc3-bafe-e9f9bd915c83`;
 
-  const TARGET_DATA = new Date(2026, 4, 3, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 30, 8, 8, 0);
 
   useEffect(() => {
   const targetData = TARGET_DATA; //дата з якої поч працювати webView
